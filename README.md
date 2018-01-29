@@ -6,10 +6,10 @@
 
 ## Team
 
-  - Katherine Manning
-  - Patrick Miner
-  - Ayush Kumar
-  - Danny Welstad
+  - David Arellano
+  - Vu Chau
+  - Ed Chu
+  - Aygerim Sauletkhan
 
 ## Table of Contents
 
